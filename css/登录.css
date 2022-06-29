@@ -158,3 +158,6 @@ input:focus::placeholder{
 	background-color: #ff6700;
 	color: #fff;
 }
+a{
+	color: #ff6700;
+}
